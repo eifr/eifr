@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on @seal-sec projects<br>👯 I’m looking to collaborate on any ui libraries<br>🌱 I’m currently learning Vim/KDE<br>
+🔭 I’m currently working on [GoTo](https://gototravel.app)<br>👯 I’m looking to collaborate on any ui libraries<br>🌱 I’m currently learning Vim/KDE<br>
 
 
 ## 🌐 Socials:
